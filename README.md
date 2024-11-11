@@ -1,4 +1,4 @@
-![Capa do Loop Cardápio](img/capa.jpg)
+![Capa do Loop Cardápio](img/capa.svg)
 
 **Loop** é uma empresa dedicada ao desenvolvimento de soluções inovadoras para o setor de automação comercial. Nosso produto principal é o **Cardápio Loop**, uma plataforma digital para restaurantes, lojas e eventos, oferecendo uma experiência moderna e acessível para visualização de cardápios via QR Code. Este repositório contém o código e os recursos necessários para o desenvolvimento e manutenção do Cardápio Loop.
 
